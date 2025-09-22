@@ -1,0 +1,5 @@
+[[module.mounts]]
+  disableWatch = false
+  lang = ''
+  source = 'toml/content'
+  target = 'content'

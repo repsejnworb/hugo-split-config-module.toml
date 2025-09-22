@@ -1,0 +1,7 @@
+mounts:
+- disableWatch: false
+  excludeFiles: null
+  includeFiles: null
+  lang: ""
+  source: yaml/static
+  target: static
